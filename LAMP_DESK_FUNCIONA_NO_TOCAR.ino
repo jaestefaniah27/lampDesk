@@ -31,8 +31,8 @@ int lastTimeClock = 0;
 const char* diasSemanaESP[] = {"DOM", "LUN", "MAR", "MIE", "JUE", "VIE", "SAB"};
 
 // Credenciales Wi-Fi
-const char* ssid = "DIGIFIBRA-UQGR";
-const char* password = "F7sKyyKSSs";
+const char* ssid = "XXXX";
+const char* password = "XXXX";
 
 // Pines para la lámpara
 const int pwmPinWhite = 25;  // Barra azulada (luz fría)
